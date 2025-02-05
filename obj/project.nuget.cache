@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSCtV/A/9/k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pass9\\Desktop\\新建文件夹\\Terraria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pass9\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\pass9\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
